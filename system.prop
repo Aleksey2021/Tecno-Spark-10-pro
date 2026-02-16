@@ -1,0 +1,7 @@
+ro.crypto.volume.filenames_mode=aes-256-cts
+ro.vendor.tran.trans_pay_tee=1
+ro.hardware.paytrigger=trustonic
+ro.vendor.mtk_tee_gp_support=1
+ro.hardware.kmsetkey=trustonic
+ro.vendor.mtk_trustonic_tee_support=1
+ro.hardware.gatekeeper=trustonic

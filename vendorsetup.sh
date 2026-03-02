@@ -65,7 +65,7 @@ export FOX_BUILD_TYPE="unofficial"
 export OF_MAINTAINER="Aleksey2021"
 
 # Status bar
-export OF_SCREEN_H=2400
+# export OF_SCREEN_H=2400
 
 # Necessary to decrypt most laurel_sprout ROMs
 export OF_FIX_DECRYPTION_ON_DATA_MEDIA=1
